@@ -1,0 +1,11 @@
+PROJECT 4: NETCAT NETWORK CHAT
+
+Server address: 127.0.0.1
+TCP port: 12345
+
+Test 1: Server started
+Test 2: Client connected
+Test 3: Client message received
+Test 4: Server reply received
+
+Result: [Write PASS or FAIL based on your test]
